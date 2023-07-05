@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Junyue Holden Wang's websute"
+title: "Junyue Holden Wang's website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
