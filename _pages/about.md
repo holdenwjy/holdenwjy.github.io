@@ -49,4 +49,73 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 * Wei, W.; Huang, Q. S.; Sun, J.; **Wang, J. Y.**; Wu, S. L.; Ni, B. J., Polyvinyl Chloride Microplastics Affect Methane Production from the Anaerobic Digestion of Waste Activated Sludge through Leaching Toxic Bisphenol-A. *Environ Sci Technol* **2019**, 53, (5), 2509-2517.
 
-  
+
+Honors and Awards
+======
+
+**Georgia Institute of Technology**
+
+* C. Ellen Gonter Environmental Chemistry Awards, **2023**
+
+**Tongji University**
+
+* The Excellent Dissertation Award of Tongji University (Top 5%), **2020**
+
+* The 1st Prize of Tongji Scholarship of Excellence, **2019**
+
+* Excellent Student Innovation Training Program, **2018**
+
+* The 2nd Prize of Tongji Scholarship of Excellence, **2018**
+
+* Tongji-Kelan Environmental Education Scholarship, **2018**
+
+* The 2nd  Prize of Tongji Scholarship of Excellence, **2017**
+
+
+Selected Presentations
+======
+**Invited Research Presentations**
+
+* Disinfection Byproduct Formation in Halide-Containing Water: Comparing Peroxyacids and Conventional Oxidants, *ACS Annual Meeting*, San Francisco, USA. **August 2023**.
+
+**Selected Oral Research Presentations**
+
+* Enhancing the Electron Transfer between High Valent Iron and Orgnaic Contaminants by Peracetic Acid, *ACS Annual Meeting*, Indianapolis, USA. **March 2023**.
+* Understanding the Pathogen Inactivation by Peroxyacids, *ACS Annual Meeting*, Indianapolis, USA. **March 2023**.
+**Selected Poster Presentations**
+
+* Evaluating Peroxyacid Disinfection: Pathogen Inactivation and Byproduct Formation, *Gordon Research Conference*, Boston, USA. **August 2023**.
+
+Professional Service
+======
+
+**Proposal Writing**
+
+* NSF (CHE-2108701) Synergistic Actions of Peroxyacids and Metals for Advanced Water Treatment, **2021**
+
+**Teaching** 
+
+* Teaching Assistant in Environmental Chemical Principles, **2023**
+* Teaching Assistant in Environmental Chemical Principles, **2022** 
+* Teaching Assistant in Environmental Engineering Lab, **2022**
+* Teaching Assistant in Environmental Chemical Principles, **2021**
+* Teaching Assistant in Environmental Engineering Lab, **2021**
+
+**Advising**
+
+* Caroline Krall (President’s Undergraduate Research Salary Award), **2022**
+
+**Peer-Reviewer**
+
+* Reviewer of Environmental Science & Technology, **2023**
+* Reviewer of Chemical Engineering Journal, **2022**
+* Reviewer of ACS EST Water, **2022**
+
+
+
+
+
+
+
+
+
