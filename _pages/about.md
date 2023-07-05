@@ -82,6 +82,7 @@ Selected Presentations
 
 * Enhancing the Electron Transfer between High Valent Iron and Orgnaic Contaminants by Peracetic Acid, *ACS Annual Meeting*, Indianapolis, USA. **March 2023**.
 * Understanding the Pathogen Inactivation by Peroxyacids, *ACS Annual Meeting*, Indianapolis, USA. **March 2023**.
+
 **Selected Poster Presentations**
 
 * Evaluating Peroxyacid Disinfection: Pathogen Inactivation and Byproduct Formation, *Gordon Research Conference*, Boston, USA. **August 2023**.
