@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the **Department of Environmental Engineering**, **Georgia Institute of Technolicy**, GA, USA, working with [Dr. Ching-Hua Huang](https://ce.gatech.edu/directory/person/ching-hua-huang). 
+I am a Ph.D. candidate in the **Department of Environmental Engineering**, **Georgia Institute of Technology**, GA, USA, working with [Dr. Ching-Hua Huang](https://ce.gatech.edu/directory/person/ching-hua-huang). 
 
 <!---
 At the core of my research in XXX, I strive to YYY. The ultimate aim of my research is to promote ZZZ, through AAA.
@@ -27,7 +27,7 @@ Education
 Academic Appointments
 ======
 * Visiting Researcher (05.2023 - 08.2023), **Leibniz Institute for Tropospheric Research Atmospheric Chemistry**, Leipzig, Saxony, Germany,  advisor: [Dr. Hartmut Herrmann](https://www.tropos.de/en/institute/about-us/employees/hartmut-herrmann)
-* Visiting Researcher (05.2022 - 07.2023), **SLAC National Accelerator Laboratory**, Stanford Synchrotron Radiation Laboratory (SSRL), Palo Alto, CA, USA, advisor: [Dr. Thomas Kroll](https://profiles.stanford.edu/thomas-kroll)
+* Visiting Researcher (11.2022 - 12.2022), **SLAC National Accelerator Laboratory**, Stanford Synchrotron Radiation Laboratory (SSRL), Palo Alto, CA, USA, advisor: [Dr. Thomas Kroll](https://profiles.stanford.edu/thomas-kroll)
 * Visiting Research Assistant (08.2019 - 06.2020), **University of California, Berkeley**, Berkeley, CA, USA, advisor: [Dr. David L. Sedlak](https://ce.berkeley.edu/people/faculty/sedlak), [Dr.Ashok Gadgil](https://ce.berkeley.edu/people/faculty/gadgil)
 
 
@@ -38,7 +38,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 * **Wang, J.**; Xu, J.; Kim, J.; Huang, C. H., Mechanistic Insight for Disinfection Byproduct Formation Potential of Peracetic Acid and Performic Acid in Halide-Containing Water. *Environ Sci Technol* **2023**.
 
-* **Guo, B.; Wang, J.** (Equally 1st Author); Sathiyan, K.; Ma, X.; Lichtfouse, E.; Huang, C. H.; Sharma, V. K., Enhanced Oxidation of Antibiotics by Ferrate Mediated with Natural Organic Matter: Role of Phenolic Moieties. *Environ Sci Technol* **2023**.
+* Guo, B.; **Wang, J.** (Equally 1st Author); Sathiyan, K.; Ma, X.; Lichtfouse, E.; Huang, C. H.; Sharma, V. K., Enhanced Oxidation of Antibiotics by Ferrate Mediated with Natural Organic Matter: Role of Phenolic Moieties. *Environ Sci Technol* **2023**.
 
 * Kim, J.; **Wang, J.**; Ashley, D. C.; Sharma, V. K.; Huang, C. H., Picolinic Acid-Mediated Catalysis of Mn(II) for Peracetic Acid Oxidation Processes: Formation of High-Valent Mn Species. *Environ Sci Technol* **2023**.
 
@@ -52,7 +52,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 * Wei, W.; Huang, Q. S.; Sun, J.; **Wang, J. Y.**; Wu, S. L.; Ni, B. J., Polyvinyl Chloride Microplastics Affect Methane Production from the Anaerobic Digestion of Waste Activated Sludge through Leaching Toxic Bisphenol-A. *Environ Sci Technol* **2019**, 53, (5), 2509-2517.
 
-
+<!---
 Honors and Awards
 ======
 
@@ -73,7 +73,7 @@ Honors and Awards
 * Tongji-Kelan Environmental Education Scholarship, **2018**
 
 * The 2nd  Prize of Tongji Scholarship of Excellence, **2017**
-
+-->
 
 Selected Presentations
 ======
@@ -93,6 +93,7 @@ Selected Presentations
 Professional Service
 ======
 
+<!---
 **Proposal Writing**
 
 * NSF (CHE-2108701) Synergistic Actions of Peroxyacids and Metals for Advanced Water Treatment, **2021**
@@ -108,6 +109,7 @@ Professional Service
 **Advising**
 
 * Caroline Krall (President’s Undergraduate Research Salary Award), **2022**
+-->
 
 **Peer-Reviewer**
 
