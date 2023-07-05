@@ -8,10 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the **Department of Environmental Engineering**, **Georgia Institute of Technolicy**, GA, USA, working with [Dr. Ching-Hua Huang](https://ce.gatech.edu/directory/person/ching-hua-huang). At the core of my research in XXX, I strive to YYY. The ultimate aim of my research is to promote ZZZ, through AAA.
+I am a Ph.D. candidate in the **Department of Environmental Engineering**, **Georgia Institute of Technolicy**, GA, USA, working with [Dr. Ching-Hua Huang](https://ce.gatech.edu/directory/person/ching-hua-huang). 
+
+<!---
+At the core of my research in XXX, I strive to YYY. The ultimate aim of my research is to promote ZZZ, through AAA.
 
 **Bio:** My work on AAA won BBB. I was awarded CCC in 20XX. I was selected as DDD in. I led. I have more than # publications on EEE, and gave invited talks about FFF at G, H, I, etc.
-
+-->
 
 Education
 ======
