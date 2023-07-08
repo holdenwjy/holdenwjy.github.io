@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the **Department of Environmental Engineering**, **Georgia Institute of Technology**, GA, USA, working with [Dr. Ching-Hua Huang](https://ce.gatech.edu/directory/person/ching-hua-huang). 
+I am a Ph.D. candidate in **Department of Environmental Engineering**, **Georgia Institute of Technology**, GA, USA, working with [Dr. Ching-Hua Huang](https://ce.gatech.edu/directory/person/ching-hua-huang). My research has covered innovative instrumental analysis (e.g., microfluidic mixer coupled X-ray spectroscopy), bacteria and virus inactivation, bioenergy,  and advanced oxidation.
+
 
 <!---
 At the core of my research in XXX, I strive to YYY. The ultimate aim of my research is to promote ZZZ, through AAA.
@@ -26,7 +27,7 @@ Education
 
 Academic Appointments
 ======
-* Visiting Researcher (05.2023 - 08.2023), **Leibniz Institute for Tropospheric Research Atmospheric Chemistry**, Leipzig, Saxony, Germany,  advisor: [Dr. Hartmut Herrmann](https://www.tropos.de/en/institute/about-us/employees/hartmut-herrmann)
+* Visiting Researcher (05.2023 - 08.2023), **Leibniz Institute for Tropospheric Research**, Leipzig, Saxony, Germany,  advisor: [Dr. Hartmut Herrmann](https://www.tropos.de/en/institute/about-us/employees/hartmut-herrmann)
 * Visiting Researcher (11.2022 - 12.2022), **SLAC National Accelerator Laboratory**, Stanford Synchrotron Radiation Laboratory (SSRL), Palo Alto, CA, USA, advisor: [Dr. Thomas Kroll](https://profiles.stanford.edu/thomas-kroll)
 * Visiting Research Assistant (08.2019 - 06.2020), **University of California, Berkeley**, Berkeley, CA, USA, advisor: [Dr. David L. Sedlak](https://ce.berkeley.edu/people/faculty/sedlak), [Dr.Ashok Gadgil](https://ce.berkeley.edu/people/faculty/gadgil)
 
@@ -38,7 +39,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 * **Wang, J.**; Xu, J.; Kim, J.; Huang, C. H., Mechanistic Insight for Disinfection Byproduct Formation Potential of Peracetic Acid and Performic Acid in Halide-Containing Water. *Environ Sci Technol* **2023**.
 
-* Guo, B.; **Wang, J.** (Equally 1st Author); Sathiyan, K.; Ma, X.; Lichtfouse, E.; Huang, C. H.; Sharma, V. K., Enhanced Oxidation of Antibiotics by Ferrate Mediated with Natural Organic Matter: Role of Phenolic Moieties. *Environ Sci Technol* **2023**.
+* Guo, B.; **Wang, J. (Equally 1st Author)**; Sathiyan, K.; Ma, X.; Lichtfouse, E.; Huang, C. H.; Sharma, V. K., Enhanced Oxidation of Antibiotics by Ferrate Mediated with Natural Organic Matter: Role of Phenolic Moieties. *Environ Sci Technol* **2023**.
 
 * Kim, J.; **Wang, J.**; Ashley, D. C.; Sharma, V. K.; Huang, C. H., Picolinic Acid-Mediated Catalysis of Mn(II) for Peracetic Acid Oxidation Processes: Formation of High-Valent Mn Species. *Environ Sci Technol* **2023**.
 
