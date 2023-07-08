@@ -17,7 +17,7 @@ At the core of my research in XXX, I strive to YYY. The ultimate aim of my resea
 **Bio:** My work on AAA won BBB. I was awarded CCC in 20XX. I was selected as DDD in. I led. I have more than # publications on EEE, and gave invited talks about FFF at G, H, I, etc.
 -->
 
-Education
+# Education
 ======
 * Ph.D. in Environmental Engineering (2021 - Now), **Georgia Institute of Technology**, Atlanta, GA, USA, advisor: [Dr. Ching-Hua Huang](https://ce.gatech.edu/directory/person/ching-hua-huang)
 * M.S. in Civil & Environmental Engineering (2020 - 2021), **Stanford University**, Palo Alto, CA, USA, advisor: [Dr. Richard Luthy](https://profiles.stanford.edu/richard-luthy)
@@ -25,14 +25,14 @@ Education
 * B.S. in Environmental Engineering (2016 - 2020), **Tongji University**, Shanghai, China, advisor: [Dr. Bing-Jie Ni](https://profiles.uts.edu.au/Bingjie.Ni)
 
 
-Academic Appointments
+# Academic Appointments
 ======
 * Visiting Researcher (05.2023 - 08.2023), **Leibniz Institute for Tropospheric Research**, Leipzig, Saxony, Germany,  advisor: [Dr. Hartmut Herrmann](https://www.tropos.de/en/institute/about-us/employees/hartmut-herrmann)
 * Visiting Researcher (11.2022 - 12.2022), **SLAC National Accelerator Laboratory**, Stanford Synchrotron Radiation Laboratory (SSRL), Palo Alto, CA, USA, advisor: [Dr. Thomas Kroll](https://profiles.stanford.edu/thomas-kroll)
 * Visiting Research Assistant (08.2019 - 06.2020), **University of California, Berkeley**, Berkeley, CA, USA, advisor: [Dr. David L. Sedlak](https://ce.berkeley.edu/people/faculty/sedlak), [Dr.Ashok Gadgil](https://ce.berkeley.edu/people/faculty/gadgil)
 
 
-Publications
+# Publications
 ======
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=3cAfH00AAAAJ&hl=en">my Google Scholar profile</a>.</u>
@@ -76,22 +76,22 @@ Honors and Awards
 * The 2nd  Prize of Tongji Scholarship of Excellence, **2017**
 -->
 
-Selected Presentations
+# Selected Presentations
 ======
-**Invited Research Presentations**
+### Invited Research Presentations
 
 * Disinfection Byproduct Formation in Halide-Containing Water: Comparing Peroxyacids and Conventional Oxidants, *ACS Annual Meeting*, San Francisco, USA. **August 2023**.
 
-**Selected Oral Research Presentations**
+### Selected Oral Research Presentations
 
 * Enhancing the Electron Transfer between High Valent Iron and Orgnaic Contaminants by Peracetic Acid, *ACS Annual Meeting*, Indianapolis, USA. **March 2023**.
 * Understanding the Pathogen Inactivation by Peroxyacids, *ACS Annual Meeting*, Indianapolis, USA. **March 2023**.
 
-**Selected Poster Presentations**
+### Selected Poster Presentations
 
 * Evaluating Peroxyacid Disinfection: Pathogen Inactivation and Byproduct Formation, *Gordon Research Conference*, Boston, USA. **August 2023**.
 
-Professional Service
+# Professional Service
 ======
 
 <!---
@@ -112,7 +112,7 @@ Professional Service
 * Caroline Krall (President’s Undergraduate Research Salary Award), **2022**
 -->
 
-**Peer-Reviewer**
+### Peer-Reviewer
 
 * Reviewer of Environmental Science & Technology, **2023**
 * Reviewer of Chemical Engineering Journal, **2022**
