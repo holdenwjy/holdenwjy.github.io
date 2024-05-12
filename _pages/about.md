@@ -19,17 +19,30 @@ At the core of my research in XXX, I strive to YYY. The ultimate aim of my resea
 
 # Education
 
-* Ph.D. in Environmental Engineering (2021 - Now), **Georgia Institute of Technology**, Atlanta, GA, USA, advisor: [Dr. Ching-Hua Huang](https://ce.gatech.edu/directory/person/ching-hua-huang)
+* Ph.D. in Environmental Engineering (2021 - 2024), **Georgia Institute of Technology**, Atlanta, GA, USA, advisor: [Dr. Ching-Hua Huang](https://ce.gatech.edu/directory/person/ching-hua-huang)
+  *Dissertation*: Evaluating Peroxyacid and UV/Peroxyacid Disinfection Processes: Pathogen Inactivation Mechanisms, Disinfection Byproduct Formation, and Co-Removal of Organic Contaminants
+  *Committee Members*: Ching-Hua Huang, Yongsheng Chen, John Crittenden, Ameet Pinto, Xing Xie, Brian Hammers
+  Doctoral Minor: Molecular Biology and Biochemistry
+  *Certificate Program*: Future Faculty Fellows Program, Georgia Tech Center for Teaching and Learning (CTL)
 * M.S. in Civil & Environmental Engineering (2020 - 2021), **Stanford University**, Palo Alto, CA, USA, advisor: [Dr. Richard Luthy](https://profiles.stanford.edu/richard-luthy)
 * Exchange Study in Civil & Environmental Engineering (2019 - 2020), **University of California, Berkeley**, Berkeley, CA, USA, advisor: [Dr. David L. Sedlak](https://ce.berkeley.edu/people/faculty/sedlak), [Dr.Ashok Gadgil](https://ce.berkeley.edu/people/faculty/gadgil)
 * B.S. in Environmental Engineering (2016 - 2020), **Tongji University**, Shanghai, China, advisor: [Dr. Bing-Jie Ni](https://profiles.uts.edu.au/Bingjie.Ni)
 
 
 # Academic Appointments
-
-* Visiting Researcher (05.2023 - 08.2023), **Leibniz Institute for Tropospheric Research**, Leipzig, Saxony, Germany,  advisor: [Dr. Hartmut Herrmann](https://www.tropos.de/en/institute/about-us/employees/hartmut-herrmann)
-* Visiting Researcher (11.2022 - 12.2022), **SLAC National Accelerator Laboratory**, Stanford Synchrotron Radiation Laboratory (SSRL), Palo Alto, CA, USA, advisor: [Dr. Thomas Kroll](https://profiles.stanford.edu/thomas-kroll)
-* Visiting Research Assistant (08.2019 - 06.2020), **University of California, Berkeley**, Berkeley, CA, USA, advisor: [Dr. David L. Sedlak](https://ce.berkeley.edu/people/faculty/sedlak), [Dr.Ashok Gadgil](https://ce.berkeley.edu/people/faculty/gadgil)
+* Postdoctoral Researcher (05.2024 - Now), **Yale University**, New Haven, CT, USA,
+  *Chemical &amp; Environmental Engineering*, advisor: [Dr. Lea R. Winter](https://seas.yale.edu/faculty-research/faculty-directory/lea-r-winter)
+  *Carbon Contamination Laboratory*, co-advisor: [Dr. Dean Takahashi](https://som.yale.edu/faculty-research/faculty-directory/dean-takahashi)
+  Plasma conversion of greenhouse gases into fuels and energy-added products
+* Visiting Researcher (02.2024 - 04.2024), **University of Notre Dame**, *Notre Dame Radiation Laboratory*, Notre Dame, IN, USA,  advisor: [Dr. Aliaksandra Lisouskaya](https://rad.nd.edu/people/faculty/alexandra-lisovskaya/)
+  Understanding the reactivity of organic radicals by pulse radiolysis
+* Visiting Researcher (03.2024 - 04.2024), **SLAC National Accelerator Laboratory**, *Stanford Synchrotron Radiation Laboratory (SSRL)*, Palo Alto, CA, USA, advisor: [Dr. Thomas Kroll](https://profiles.stanford.edu/thomas-kroll)
+  Microfluidic mixer-driven in-situ X-ray characterization of transient metal species
+* Visiting Researcher (05.2023 - 08.2023), **Leibniz Institute for Tropospheric Research**, *Atmospheric Chemistry, Leipzig*, Saxony, Germany, advisor: [Dr. Hartmut Herrmann](https://www.tropos.de/en/institute/about-us/employees/hartmut-herrmann)
+  Understanding the reactivity of peroxy radicals by laser flash photolysis
+* Visiting Researcher (11.2022 - 12.2022), **SLAC National Accelerator Laboratory**, *Stanford Synchrotron Radiation Laboratory (SSRL)*, Palo Alto, CA, USA, advisor: [Dr. Thomas Kroll](https://profiles.stanford.edu/thomas-kroll)
+* Visiting Research Assistant (08.2019 - 06.2020), **University of California, Berkeley**, *Civil & Environmental Engineering*, Berkeley, CA, USA, advisor: [Dr. David L. Sedlak](https://ce.berkeley.edu/people/faculty/sedlak), [Dr.Ashok Gadgil](https://ce.berkeley.edu/people/faculty/gadgil)
+  Electrochemical passivation of lead-based water distribution systems
 
 
 # Publications
@@ -59,7 +72,9 @@ Honors and Awards
 
 **Georgia Institute of Technology**
 
-* C. Ellen Gonter Environmental Chemistry Awards, **2023**
+* Georgia Tech CEE Future Faculty Scholarship, **2023**
+* ACS C. Ellen Gonter Environmental Chemistry Awards, **2023**
+* Georgia Tech CEE Fellowship for 1st year PhD Students, **2021*
 
 **Tongji University**
 
