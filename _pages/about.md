@@ -22,10 +22,6 @@ At the core of my research in XXX, I strive to YYY. The ultimate aim of my resea
 # Education
 
 * Ph.D. in Environmental Engineering (2021 - 2024), **Georgia Institute of Technology**, Atlanta, GA, USA, advisor: [Dr. Ching-Hua Huang](https://ce.gatech.edu/directory/person/ching-hua-huang)\
-  *Dissertation*: Evaluating Peroxyacid and UV/Peroxyacid Disinfection Processes: Pathogen Inactivation Mechanisms, Disinfection Byproduct Formation, and Co-Removal of Organic Contaminants\
-  *Committee Members*: Ching-Hua Huang, Yongsheng Chen, John Crittenden, Ameet Pinto, Xing Xie, Brian Hammers\
-  Doctoral Minor: Molecular Biology and Biochemistry\
-  *Certificate Program*: Future Faculty Fellows Program, Georgia Tech Center for Teaching and Learning (CTL)
 * M.S. in Civil & Environmental Engineering (2020 - 2021), **Stanford University**, Palo Alto, CA, USA, advisor: [Dr. Richard Luthy](https://profiles.stanford.edu/richard-luthy)
 * Exchange Study in Civil & Environmental Engineering (2019 - 2020), **University of California, Berkeley**, Berkeley, CA, USA, advisor: [Dr. David L. Sedlak](https://ce.berkeley.edu/people/faculty/sedlak), [Dr.Ashok Gadgil](https://ce.berkeley.edu/people/faculty/gadgil)
 * B.S. in Environmental Engineering (2016 - 2020), **Tongji University**, Shanghai, China, advisor: [Dr. Bing-Jie Ni](https://profiles.uts.edu.au/Bingjie.Ni)
@@ -128,7 +124,7 @@ Honors and Awards
 * Interaction between Metals and Peroxyacids for Advanced Oxidation, ACS Annual Meeting, Indianapolis, USA. **March 2023**. (Presenter: Dr Ching-Hua Huang)
 * Enhanced Degradation of Micropollutants in a Peracetic Acid–Fe(III) System with Picolinic Acid, ACS Annual Meeting, Indianapolis, USA. **March 2023**. (Presenter: Dr Juhee Kim)
 
-
+<!---
 **Proposal Writing**
 
 * NSF (CHE-2108701) Synergistic Actions of Peroxyacids and Metals for Advanced Water Treatment (Extended Funding), PI: Ching-Hua Huang, Virender K. Sharma, Hartmut Herrmann, 2023
@@ -150,7 +146,7 @@ Honors and Awards
 * 2021 Teaching Assistant in Environmental Engineering Lab (Undergraduate Course) Lab sessions, facility tours, office hours, grading problem sets and lab reports
 
 
-<!---
+
 **Advising**
 
 * Caroline Krall (President’s Undergraduate Research Salary Award), **2022**
