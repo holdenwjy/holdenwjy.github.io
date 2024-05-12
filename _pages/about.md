@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in **Department of Environmental Engineering**, **Georgia Institute of Technology**, GA, USA, working with [Dr. Ching-Hua Huang](https://ce.gatech.edu/directory/person/ching-hua-huang). My research has covered innovative instrumental analysis (e.g., microfluidic mixer coupled X-ray spectroscopy), bacteria and virus inactivation, bioenergy,  and advanced oxidation.
+My research has been broadly focused on advanced instrumentation (e.g., laser, pulse radiolysis, microfluidic synchrotron X-ray spectroscopy, mass spectrometry) and innovative physical-chemical processes (e.g., ultraviolet, plasma, catalysis) for diverse environmental applications, including (i) conversion of greenhouse gases and renewable energy systems, (ii) inactivation of viruses and antibiotic resistant bacteria for public health purposes, and (iii) degradation of emerging organic contaminants for environmental sustainability.
 
 
 <!---
