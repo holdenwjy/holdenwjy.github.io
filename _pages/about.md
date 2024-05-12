@@ -31,15 +31,15 @@ At the core of my research in XXX, I strive to YYY. The ultimate aim of my resea
 * Postdoctoral Researcher (05.2024 - Now), **Yale University**, New Haven, CT, USA,\
   *Chemical &amp; Environmental Engineering*, advisor: [Dr. Lea R. Winter](https://seas.yale.edu/faculty-research/faculty-directory/lea-r-winter)\
   *Carbon Contamination Laboratory*, co-advisor: [Dr. Dean Takahashi](https://som.yale.edu/faculty-research/faculty-directory/dean-takahashi)\
-  Plasma conversion of greenhouse gases into fuels and energy-added products\
+  Plasma conversion of greenhouse gases into fuels and energy-added products
 * Visiting Researcher (02.2024 - 04.2024), **University of Notre Dame**, *Notre Dame Radiation Laboratory*, Notre Dame, IN, USA,  advisor: [Dr. Aliaksandra Lisouskaya](https://rad.nd.edu/people/faculty/alexandra-lisovskaya/)\
-  Understanding the reactivity of organic radicals by pulse radiolysis\
+  Understanding the reactivity of organic radicals by pulse radiolysis
 * Visiting Researcher (03.2024 - 04.2024), **SLAC National Accelerator Laboratory**, *Stanford Synchrotron Radiation Laboratory (SSRL)*, Palo Alto, CA, USA, advisor: [Dr. Thomas Kroll](https://profiles.stanford.edu/thomas-kroll)\
-  Microfluidic mixer-driven in-situ X-ray characterization of transient metal species\
+  Microfluidic mixer-driven in-situ X-ray characterization of transient metal species
 * Visiting Researcher (05.2023 - 08.2023), **Leibniz Institute for Tropospheric Research**, *Atmospheric Chemistry, Leipzig*, Saxony, Germany, advisor: [Dr. Hartmut Herrmann](https://www.tropos.de/en/institute/about-us/employees/hartmut-herrmann)\
-  Understanding the reactivity of peroxy radicals by laser flash photolysis\
+  Understanding the reactivity of peroxy radicals by laser flash photolysis
 * Visiting Researcher (11.2022 - 12.2022), **SLAC National Accelerator Laboratory**, *Stanford Synchrotron Radiation Laboratory (SSRL)*, Palo Alto, CA, USA, advisor: [Dr. Thomas Kroll](https://profiles.stanford.edu/thomas-kroll)\
-  Microfluidic mixer-driven in-situ X-ray characterization of transient metal species\
+  Microfluidic mixer-driven in-situ X-ray characterization of transient metal species
 * Visiting Research Assistant (08.2019 - 06.2020), **University of California, Berkeley**, *Civil & Environmental Engineering*, Berkeley, CA, USA, advisor: [Dr. David L. Sedlak](https://ce.berkeley.edu/people/faculty/sedlak), [Dr.Ashok Gadgil](https://ce.berkeley.edu/people/faculty/gadgil)\
   Electrochemical passivation of lead-based water distribution systems
 
