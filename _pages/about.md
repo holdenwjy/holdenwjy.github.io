@@ -21,7 +21,7 @@ At the core of my research in XXX, I strive to YYY. The ultimate aim of my resea
 
 # Education
 
-* Ph.D. in Environmental Engineering (2021 - 2024), **Georgia Institute of Technology**, Atlanta, GA, USA, advisor: [Dr. Ching-Hua Huang](https://ce.gatech.edu/directory/person/ching-hua-huang)\
+* Ph.D. in Environmental Engineering (2021 - 2024), **Georgia Institute of Technology**, Atlanta, GA, USA, advisor: [Dr. Ching-Hua Huang](https://ce.gatech.edu/directory/person/ching-hua-huang)
 * M.S. in Civil & Environmental Engineering (2020 - 2021), **Stanford University**, Palo Alto, CA, USA, advisor: [Dr. Richard Luthy](https://profiles.stanford.edu/richard-luthy)
 * Exchange Study in Civil & Environmental Engineering (2019 - 2020), **University of California, Berkeley**, Berkeley, CA, USA, advisor: [Dr. David L. Sedlak](https://ce.berkeley.edu/people/faculty/sedlak), [Dr.Ashok Gadgil](https://ce.berkeley.edu/people/faculty/gadgil)
 * B.S. in Environmental Engineering (2016 - 2020), **Tongji University**, Shanghai, China, advisor: [Dr. Bing-Jie Ni](https://profiles.uts.edu.au/Bingjie.Ni)
