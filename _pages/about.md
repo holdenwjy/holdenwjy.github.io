@@ -23,7 +23,7 @@ At the core of my research in XXX, I strive to YYY. The ultimate aim of my resea
   *Dissertation*: Evaluating Peroxyacid and UV/Peroxyacid Disinfection Processes: Pathogen Inactivation Mechanisms, Disinfection Byproduct Formation, and Co-Removal of Organic Contaminants\
   *Committee Members*: Ching-Hua Huang, Yongsheng Chen, John Crittenden, Ameet Pinto, Xing Xie, Brian Hammers\
   Doctoral Minor: Molecular Biology and Biochemistry\
-  *Certificate Program*: Future Faculty Fellows Program, Georgia Tech Center for Teaching and Learning (CTL)\
+  *Certificate Program*: Future Faculty Fellows Program, Georgia Tech Center for Teaching and Learning (CTL)
 * M.S. in Civil & Environmental Engineering (2020 - 2021), **Stanford University**, Palo Alto, CA, USA, advisor: [Dr. Richard Luthy](https://profiles.stanford.edu/richard-luthy)
 * Exchange Study in Civil & Environmental Engineering (2019 - 2020), **University of California, Berkeley**, Berkeley, CA, USA, advisor: [Dr. David L. Sedlak](https://ce.berkeley.edu/people/faculty/sedlak), [Dr.Ashok Gadgil](https://ce.berkeley.edu/people/faculty/gadgil)
 * B.S. in Environmental Engineering (2016 - 2020), **Tongji University**, Shanghai, China, advisor: [Dr. Bing-Jie Ni](https://profiles.uts.edu.au/Bingjie.Ni)
@@ -94,34 +94,61 @@ Honors and Awards
 
 # Selected Presentations
 
-### Invited Research Presentations
+### Seminars
+
+* Evaluation of Peroxyacid and UV/Peroxyacid Disinfection: Pathogen Inactivation, Byproduct Formation, and Co-Removal of Organic Contaminants, Georgia Institute of technology, Atlanta, GA, USA, **April 2024**.
+
+* Selective Oxidants for Water Disinfection and Decontamination: High-Valent Iron and Peroxyacids, Tongji University, China, **July 2023**.
+
+### Invited Conference Oral Presentations
+
+* Employing Multidimensional Bioanalysis to Reveal the Bacterial and Viral Inactivation Mechanisms of Peroxyacids and Chlorine Disinfectants, 3rd European Congress on Chemistry and Applied Sciences, Amsterdam, Netherland (Virtual), **June 2024**.
 
 * Disinfection Byproduct Formation in Halide-Containing Water: Comparing Peroxyacids and Conventional Oxidants, *ACS Annual Meeting*, San Francisco, USA. **August 2023**.
 
-### Selected Oral Research Presentations
+  
+### Selected Conference Oral Presentations
 
 * Enhancing the Electron Transfer between High Valent Iron and Orgnaic Contaminants by Peracetic Acid, *ACS Annual Meeting*, Indianapolis, USA. **March 2023**.
+
 * Understanding the Pathogen Inactivation by Peroxyacids, *ACS Annual Meeting*, Indianapolis, USA. **March 2023**.
 
-### Selected Poster Presentations
+### Selected Conference Poster Presentations
 
-* Evaluating Peroxyacid Disinfection: Pathogen Inactivation and Byproduct Formation, *Gordon Research Conference*, Boston, USA. **August 2023**.
+* Peroxyacid (POA) Disinfection: Byproduct Formation and Pathogen Inactivation Mechanisms, AEESP Lecture Series Poster Session, Clemson, USA. **January 2024**.
+* Peroxyacid (POA) Disinfection: Byproduct Formation and Pathogen Inactivation Mechanisms, Gordon Research Conference, Boston, USA. **August 2023**.
+* Comparing Antibiotic Resistance Gene Degradation and Cell Lysis by Multiple UV Advanced Oxidation Processes, Gordon Research Seminar, Boston, USA. **August 2023**.
 
-# Professional Service
+### Co-Authored Conference Presentations
+* Unveiling the Environmental Significance of Organic Peroxyl Radicals: Quantifying the Reactivity of Acetylperoxyl Radical by Fast Photolysis and Radiolysis Techniques, ACS Annual Meeting, Denver, USA. **August 2024**. (Presenter: Dr Ching-Hua Huang)
+* Advanced Oxidation with Peroxyacids and Fe(II): Experimental and Computational Evaluation, ACS Annual Meeting, Denver, USA. **August 2024**. (Presenter: Dr Ching-Hua Huang)
+* Picolinic Acid-Enhanced Fenton-Like Advanced Oxidation Processes, ACS Annual Meeting, Women in Science and Engineering (WISE), San Francisco, USA. **August 2023**. (Presenter: Dr Juhee Kim)
+* Interaction between Metals and Peroxyacids for Advanced Oxidation, ACS Annual Meeting, Indianapolis, USA. **March 2023**. (Presenter: Dr Ching-Hua Huang)
+* Enhanced Degradation of Micropollutants in a Peracetic Acid–Fe(III) System with Picolinic Acid, ACS Annual Meeting, Indianapolis, USA. **March 2023**. (Presenter: Dr Juhee Kim)
 
-<!---
+
 **Proposal Writing**
 
-* NSF (CHE-2108701) Synergistic Actions of Peroxyacids and Metals for Advanced Water Treatment, **2021**
+* NSF (CHE-2108701) Synergistic Actions of Peroxyacids and Metals for Advanced Water Treatment (Extended Funding), PI: Ching-Hua Huang, Virender K. Sharma, Hartmut Herrmann, 2023
+* EPA (R840606) Integrated Water Microbiome and Disinfection Byproducts Monitoring and Management to Advance Drinking Water Quality, PI: Ameet Pinto, Ching-Hua Huang, 2022
+
 
 **Teaching** 
 
-* Teaching Assistant in Environmental Chemical Principles, **2023**
-* Teaching Assistant in Environmental Chemical Principles, **2022** 
-* Teaching Assistant in Environmental Engineering Lab, **2022**
-* Teaching Assistant in Environmental Chemical Principles, **2021**
-* Teaching Assistant in Environmental Engineering Lab, **2021**
+### Guest Lecturer
+* Future Faculty Fellows Program, Georgia Tech Center for Teaching and Learning (CTL) **2024**
 
+### Teaching Assistant
+
+* 2024 Teaching Assistant in Environmental Engineering Lab (Undergraduate Course) Lab sessions, facility tours, office hours, grading problem sets and lab reports
+* 2023 Teaching Assistant in Environmental Engineering Lab (Undergraduate Course) Lab sessions, facility tours, office hours, grading problem sets and lab reports
+* 2022 Teaching Assistant in Environmental Chemical Principles (Graduate Course) Review sessions, office hours, grading problem sets and exams
+* 2022 Teaching Assistant in Environmental Engineering Lab (Undergraduate Course) Lab sessions, facility tours, office hour, grading problem sets and lab reports
+* 2021 Teaching Assistant in Environmental Chemical Principles (Graduate Course) Review sessions, office hours, grading problem sets and exams
+* 2021 Teaching Assistant in Environmental Engineering Lab (Undergraduate Course) Lab sessions, facility tours, office hours, grading problem sets and lab reports
+
+
+<!---
 **Advising**
 
 * Caroline Krall (President’s Undergraduate Research Salary Award), **2022**
@@ -129,9 +156,10 @@ Honors and Awards
 
 ### Peer-Reviewer
 
-* Reviewer of Environmental Science & Technology, **2023**
-* Reviewer of Chemical Engineering Journal, **2022**
-* Reviewer of ACS EST Water, **2022**
+* Reviewer of Environmental Science & Technology, **2023 - Now**
+* Reviewer of Chemical Engineering Journal, **2022 - Now**
+* Reviewer of ACS EST Water, **2021 - Now**
+* Reviewer of PLoS Water **2023 - Now**
 
 
 
