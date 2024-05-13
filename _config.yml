@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Junyue Holden Wang"
   avatar           : "holden.jpeg"
-  bio              : "Environmental Engineering Ph.D. Candidate"
-  location         : "Atlanta, GA, USA"
-  employer         : "Georgia Tech"
+  bio              : ""
+  location         : "New Haven, CT, USA"
+  employer         : "Yale"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=3cAfH00AAAAJ&hl=en"
   email            : "holdenwjy@gmail.com"
