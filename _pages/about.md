@@ -51,9 +51,9 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 * Sathiyan, K.; **Wang, J.**; Williams, L. M., Huang, C. H.; Sharma, V. K., Revisiting the Electron Transfer Mechanisms in Ru(III)-Mediated Advanced Oxidation Processes with Peroxyacids and Ferrate(VI). *Environ Sci Technol* **2024**.
 
-* **Wang, J.**; Xu, J.; Kim, J.; Huang, C. H., Mechanistic Insight for Disinfection Byproduct Formation Potential of Peracetic Acid and Performic Acid in Halide-Containing Water. *Environ Sci Technol* **2023**.
-
 * **Wang, J.**; Schaefer, T.; Lisouskaya, A.; Danielle, F. S.; Xin, X.; Meng, L.; Herrmann, H.; Sharma, V. K.; Huang, C. H., Unveiling the environmental significance of acetylperoxyl radical: reactivity quantification and kinetic modeling. *PNAS Nexus* **2024**.
+
+* **Wang, J.**; Xu, J.; Kim, J.; Huang, C. H., Mechanistic Insight for Disinfection Byproduct Formation Potential of Peracetic Acid and Performic Acid in Halide-Containing Water. *Environ Sci Technol* **2023**.
 
 * Guo, B.; **Wang, J.**; Sathiyan, K.; Ma, X.; Lichtfouse, E.; Huang, C. H.; Sharma, V. K., Enhanced Oxidation of Antibiotics by Ferrate Mediated with Natural Organic Matter: Role of Phenolic Moieties. *Environ Sci Technol* **2023**.
 
