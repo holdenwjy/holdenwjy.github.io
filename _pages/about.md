@@ -21,10 +21,10 @@ At the core of my research in XXX, I strive to YYY. The ultimate aim of my resea
 
 # Education
 
-* Ph.D. in Environmental Engineering (2021 - 2024), **Georgia Institute of Technology**, Atlanta, GA, USA, advisor: [Dr. Ching-Hua Huang](https://ce.gatech.edu/directory/person/ching-hua-huang)
-* M.S. in Civil & Environmental Engineering (2020 - 2021), **Stanford University**, Palo Alto, CA, USA, advisor: [Dr. Richard Luthy](https://profiles.stanford.edu/richard-luthy)
+* Ph.D. in Environmental Engineering, **Georgia Institute of Technology**, Atlanta, GA, USA, advisor: [Dr. Ching-Hua Huang](https://ce.gatech.edu/directory/person/ching-hua-huang)
+* M.S. in Civil & Environmental Engineering, **Stanford University**, Palo Alto, CA, USA, advisor: [Dr. Richard Luthy](https://profiles.stanford.edu/richard-luthy)
 * Exchange Study in Civil & Environmental Engineering (2019 - 2020), **University of California, Berkeley**, Berkeley, CA, USA, advisor: [Dr. David L. Sedlak](https://ce.berkeley.edu/people/faculty/sedlak), [Dr.Ashok Gadgil](https://ce.berkeley.edu/people/faculty/gadgil)
-* B.S. in Environmental Engineering (2016 - 2020), **Tongji University**, Shanghai, China, advisor: [Dr. Bing-Jie Ni](https://profiles.uts.edu.au/Bingjie.Ni)
+* B.S. in Environmental Engineering, **Tongji University**, Shanghai, China, advisor: [Dr. Bing-Jie Ni](https://profiles.uts.edu.au/Bingjie.Ni)
 
 
 # Academic Appointments
@@ -49,9 +49,13 @@ At the core of my research in XXX, I strive to YYY. The ultimate aim of my resea
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=3cAfH00AAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
+* Sathiyan, K.; **Wang, J.**; Williams, L. M., Huang, C. H.; Sharma, V. K., Revisiting the Electron Transfer Mechanisms in Ru(III)-Mediated Advanced Oxidation Processes with Peroxyacids and Ferrate(VI). *Environ Sci Technol* **2024**.
+
 * **Wang, J.**; Xu, J.; Kim, J.; Huang, C. H., Mechanistic Insight for Disinfection Byproduct Formation Potential of Peracetic Acid and Performic Acid in Halide-Containing Water. *Environ Sci Technol* **2023**.
 
-* Guo, B.; **Wang, J. (Equally 1st Author)**; Sathiyan, K.; Ma, X.; Lichtfouse, E.; Huang, C. H.; Sharma, V. K., Enhanced Oxidation of Antibiotics by Ferrate Mediated with Natural Organic Matter: Role of Phenolic Moieties. *Environ Sci Technol* **2023**.
+* **Wang, J.**; Schaefer, T.; Lisouskaya, A.; Danielle, F. S.; Xin, X.; Meng, L.; Herrmann, H.; Sharma, V. K.; Huang, C. H., Unveiling the environmental significance of acetylperoxyl radical: reactivity quantification and kinetic modeling. *PNAS Nexus* **2024**.
+
+* Guo, B.; **Wang, J.**; Sathiyan, K.; Ma, X.; Lichtfouse, E.; Huang, C. H.; Sharma, V. K., Enhanced Oxidation of Antibiotics by Ferrate Mediated with Natural Organic Matter: Role of Phenolic Moieties. *Environ Sci Technol* **2023**.
 
 * Kim, J.; **Wang, J.**; Ashley, D. C.; Sharma, V. K.; Huang, C. H., Picolinic Acid-Mediated Catalysis of Mn(II) for Peracetic Acid Oxidation Processes: Formation of High-Valent Mn Species. *Environ Sci Technol* **2023**.
 
@@ -63,7 +67,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 * Kim, J.; **Wang, J.**; Ashley, D. C.; Sharma, V. K.; Huang, C. H., Enhanced Degradation of Micropollutants in a Peracetic Acid-Fe(III) System with Picolinic Acid. *Environ Sci Technol* **2022**, 56, (7), 4437-4446.
 
-* Wei, W.; Huang, Q. S.; Sun, J.; **Wang, J. Y.**; Wu, S. L.; Ni, B. J., Polyvinyl Chloride Microplastics Affect Methane Production from the Anaerobic Digestion of Waste Activated Sludge through Leaching Toxic Bisphenol-A. *Environ Sci Technol* **2019**, 53, (5), 2509-2517.
+* Wei, W.; Huang, Q. S.; Sun, J.; **Wang, J.**; Wu, S. L.; Ni, B. J., Polyvinyl Chloride Microplastics Affect Methane Production from the Anaerobic Digestion of Waste Activated Sludge through Leaching Toxic Bisphenol-A. *Environ Sci Technol* **2019**, 53, (5), 2509-2517.
 
 <!---
 Honors and Awards
