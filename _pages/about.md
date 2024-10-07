@@ -10,7 +10,7 @@ redirect_from:
 
 My research has been broadly focused on advanced instrumentation (e.g., laser, pulse radiolysis, microfluidic synchrotron X-ray spectroscopy, mass spectrometry) and innovative physical-chemical processes (e.g., ultraviolet, plasma, catalysis) for diverse environmental applications, including (i) conversion of greenhouse gases and renewable energy systems, (ii) inactivation of viruses and antibiotic resistant bacteria for public health purposes, and (iii) degradation of emerging organic contaminants for environmental sustainability.
 
-![Research](images/bio.png)
+![Research](images/PCP.png)
 
 
 <!---
